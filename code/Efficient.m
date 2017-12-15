@@ -1,5 +1,6 @@
 function Efficient(I)
-%Usage: Just run the Efficient.m script by inputting an image file I
+%Usage: Just run the Efficient.m script by inputting an image file I. This
+%increses the efficience by 72%
 
 
 
